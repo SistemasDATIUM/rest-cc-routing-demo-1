@@ -2,12 +2,12 @@
   "routing": [
     {
       "RURI": 34915552345,
-      "PBXIP": "fakedomain1",
+      "PBXIP": "178.239.216.21",
       "comment": "PBX A (Madrid)"
     },
     {
       "RURI": 34965552345,
-      "PBXIP": "fakedomain2",
+      "PBXIP": "178.239.216.22",
       "comment": "PBX B (Alicante)"
     },
     {
